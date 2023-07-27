@@ -1,4 +1,4 @@
-Hi, I’m @jss77c Jorge S.
+Hi, I’m Jorge S.
 I am looking for a web project in laravel or javascript, which will help me to learn web programming. And I can complete the project with my own requirements.
 
 
